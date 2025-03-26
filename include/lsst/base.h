@@ -28,7 +28,7 @@
  * Basic LSST definitions
  */
 #include <memory>
-
+// change in main
 /**
  * Make a symbol visible even if visiblity is hidden (e.g. for pybind11 modules)
  *
