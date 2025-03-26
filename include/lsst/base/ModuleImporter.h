@@ -31,7 +31,11 @@
  */
 // change spmething
 #include <string>
+<<<<<<< HEAD
 // more change
+=======
+// change something 2
+>>>>>>> ec3db8c (change something)
 namespace lsst { namespace base {
 
 /**
