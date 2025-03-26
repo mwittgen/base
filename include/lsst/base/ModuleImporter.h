@@ -29,7 +29,7 @@
  *  Mechanism for safely importing Python modules from C++; should not be included
  *  except by its own implementation file, the ioLib.i file, and Persistable.cc.
  */
-
+// change spmething
 #include <string>
 
 namespace lsst { namespace base {
